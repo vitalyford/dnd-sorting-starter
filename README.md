@@ -1,6 +1,6 @@
 # Mission
 
-In this assignment, you will practice sorting data according to user's preferences. Your goal is to read the D&D characters' skills from characters.txt Download `characters.txt`. First goes the D&D character's name, followed by Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma in _no particular order_. The D&D characters are separated by an empty line in that file. 
+In this assignment, you will practice sorting data according to user's preferences. Your goal is to read the D&D characters' skills from `characters.txt`. First goes the D&D character's name, followed by Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma in _no particular order_. The D&D characters are separated by an empty line in that file. 
 
 Your goal is to:
 
