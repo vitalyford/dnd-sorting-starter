@@ -8,11 +8,11 @@ Your goal is to:
 2. Ask the user to enter the skill that should be used to sort the data. It should NOT be case-sensitive. For example, the user could enter "wisdom" or "wiSDom". __[5 points]__
 3. After reading the user's input, sort the D&D characters by that skill and print them in _ascending_ order (natural ordering) according to that skill. __[50 points]__
 4. When you print their names, append their skill value (that you used in sorting) in parenthesis. [20 points]
-5. Continue asking the user to enter the skill that should be used to sort the data until the user enters "recursion!". When the user enters "recursion!", respond with something back and exit the program. __[5 points]__
+5. Continue asking the user to enter the skill that should be used to sort the data until the user enters "recursion!". When the user enters "recursion!", respond with "Bye. May the D&D use recursion on you!" and exit the program. __[5 points]__
 
 ## Hint
 
-You can use Comparator or Comparable, Collections.sort(), HashMaps, PriorityQueues, etc. to help you out.
+You can use `Comparator` or `Comparable`, `Collections.sort()`, `HashMaps`, or `PriorityQueue`, etc. to help you out.
 
 ## Design
 
