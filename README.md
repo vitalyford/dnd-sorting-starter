@@ -2,6 +2,8 @@
 
 In this assignment, you will practice sorting data according to user's preferences. Your goal is to read the D&D characters' skills from `characters.txt`. First goes the D&D character's name, followed by Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma in _no particular order_. The D&D characters are separated by an empty line in that file. 
 
+The automated tests will be running your program directly from the `public static void main(String[] args)` method. This means that you can implement any other methods you want and to pass the tests, the `main()` should be reading the file `characters.txt`, reading the user's input, and printing messages on the screen using the standard `System.out.println()`.
+
 Your goal is to:
 
 1. Read the data from `characters.txt` (choose any way you want to store the data in your program. HINT: use HashMaps!). __[20 points]__
